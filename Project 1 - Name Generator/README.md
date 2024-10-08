@@ -1,3 +1,3 @@
 Project 1.
 
-Use of simple python code using the print() and input() functionality.
+This Name Generator revolves around the print() and input() functionality.
